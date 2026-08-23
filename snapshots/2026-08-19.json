@@ -1,0 +1,697 @@
+{
+  "schema": "publicity-hotspot-marketing-cards-v2",
+  "generated_at": "2026-08-19T19:00:00+08:00",
+  "source_count": 4,
+  "card_count": 20,
+  "sources": [
+    {
+      "code": "baidu",
+      "label": "百度",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "weibo",
+      "label": "微博",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "douyin",
+      "label": "抖音",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "jinritoutiao",
+      "label": "今日头条",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    }
+  ],
+  "cards": [
+    {
+      "card_id": "baidu:1",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "您始终有厄瓜多尔这样的朋友",
+      "category": "时政类",
+      "what_it_is": "疑似外交活动相关时政表述,具体出处、语境与官方口径需核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "high",
+      "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E6%82%A8%E5%A7%8B%E7%BB%88%E6%9C%89%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E8%BF%99%E6%A0%B7%E7%9A%84%E6%9C%8B%E5%8F%8B&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:2",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "笔试前13名全淘汰 倒数5名全逆袭",
+      "category": "职场类",
+      "what_it_is": "疑似招聘或考试录用结果引发争议的报道,具体事件、录用规则与背景需核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,仅做职场方法与规则科普;Sales不评论具体个案与涉事机构,自然衔接求职培训类产品。",
+      "risk_level": "medium",
+      "risk_reason": "录用结果类个案易涉公平争议,细节未核验前不宜公开使用。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "求职面试培训",
+        "职业规划服务",
+        "公考图书与课程",
+        "简历与职业咨询"
+      ],
+      "recommended_angles": [
+        "职场竞争与能力评价的中性讨论",
+        "招聘流程规范科普(仅基于已核实规则)"
+      ],
+      "forbidden_angles": [
+        "禁止传播未经核验的录用个案",
+        "禁止渲染黑幕论或制造对立情绪",
+        "禁止借个案贬低特定机构或岗位"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:3",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "中央巡查组怒斥企业糊弄都懒得糊弄",
+      "category": "监管类",
+      "what_it_is": "疑似中央巡查组对企业问题的批评报道,具体企业、问题与通报内容需以官方发布为准。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E4%B8%AD%E5%A4%AE%E5%B7%A1%E6%9F%A5%E7%BB%84%E6%80%92%E6%96%A5%E4%BC%81%E4%B8%9A%E7%B3%8A%E5%BC%84%E9%83%BD%E6%87%92%E5%BE%97%E7%B3%8A%E5%BC%84&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:4",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "全民医保“十五五”规划来了",
+      "category": "政策类",
+      "what_it_is": "疑似全民医保十五五规划相关政策解读,具体措施与发文机构需以官方原文核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,以官方原文为准做中性解读;Sales不引用政策做承诺,仅做健康保障场景化沟通。",
+      "risk_level": "medium",
+      "risk_reason": "政策类信息易被曲解利用,细节未核验前不宜公开使用。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "健康保险经纪服务",
+        "健康管理服务",
+        "家庭健康用品",
+        "健康科普内容"
+      ],
+      "recommended_angles": [
+        "政策官方原文中性摘要(仅已确认内容)",
+        "医保报销与异地就医常识科普"
+      ],
+      "forbidden_angles": [
+        "禁止编造政策措施或待遇承诺",
+        "禁止宣称品牌享受政策红利",
+        "禁止把政策当促销由头"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E5%85%A8%E6%B0%91%E5%8C%BB%E4%BF%9D%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E6%9D%A5%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:5",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "美国制裁赤根智子 日本网民炸锅",
+      "category": "国际时政",
+      "what_it_is": "疑似美国对日本人士实施制裁引发网民讨论的国际新闻,具体对象、制裁内容与各方表态需核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E8%B5%A4%E6%A0%B9%E6%99%BA%E5%AD%90+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%82%B8%E9%94%85&sa=fyb_news"
+    },
+    {
+      "card_id": "weibo:1",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "宇树科技上市庆功照流出",
+      "category": "财经类",
+      "what_it_is": "疑似宇树科技上市相关庆功照片流出话题,照片真实性、来源与上市信息需核验公开披露。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,仅做产业与产品科普,不涉及投资话题;Sales不评论股价与市值,素材使用前需确认授权。",
+      "risk_level": "medium",
+      "risk_reason": "涉投资敏感与未公开照片素材,需核验授权与公开披露。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "机器人玩具/教育机器人",
+        "科技文创",
+        "智能硬件",
+        "科普内容/研学活动"
+      ],
+      "recommended_angles": [
+        "人形机器人产业科普(中性)",
+        "科技公司上市意义的通俗解读",
+        "青年科技创业故事中性呈现"
+      ],
+      "forbidden_angles": [
+        "禁止荐股、预测股价或投资建议",
+        "禁止夸大公司价值或产品能力",
+        "禁止未经授权使用或转发未公开照片"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23宇树科技上市庆功照流出%23"
+    },
+    {
+      "card_id": "weibo:2",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "男子将遗产全部留给弟弟不给妻儿",
+      "category": "社会法治",
+      "what_it_is": "疑似遗产分配个案引发讨论的社会话题,具体案情、法律依据与结果需核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,只做继承法与财产规划常识科普;Sales不评论个案当事人,自然衔接法律咨询类服务。",
+      "risk_level": "medium",
+      "risk_reason": "涉家庭纠纷个案与隐私,细节未核验且易引争议。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "法律服务咨询",
+        "遗嘱与财产规划服务",
+        "公证服务",
+        "家庭财富管理课程"
+      ],
+      "recommended_angles": [
+        "继承法基本规则的常识科普",
+        "遗嘱与家庭财产规划知识"
+      ],
+      "forbidden_angles": [
+        "禁止传播未经核验的个案细节或当事人隐私",
+        "禁止煽动家庭对立或性别对立",
+        "禁止提供具体法律结论或代替律师意见"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23男子将遗产全部留给弟弟不给妻儿%23"
+    },
+    {
+      "card_id": "weibo:3",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "未来5年全民医保这样干",
+      "category": "政策类",
+      "what_it_is": "疑似全民医保十五五规划政策解读,具体内容与发文机构需以官方原文核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,以官方原文为准做中性解读;Sales不引用政策做承诺,仅做健康保障场景化沟通。",
+      "risk_level": "medium",
+      "risk_reason": "政策类信息易被曲解利用,细节未核验前不宜公开使用。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "健康保险经纪服务",
+        "健康管理服务",
+        "家庭健康用品",
+        "健康科普内容"
+      ],
+      "recommended_angles": [
+        "政策官方原文中性摘要(仅已确认内容)",
+        "医保报销与异地就医常识科普"
+      ],
+      "forbidden_angles": [
+        "禁止编造政策措施或待遇承诺",
+        "禁止宣称品牌享受政策红利",
+        "禁止把政策当促销由头"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23未来5年全民医保这样干%23"
+    },
+    {
+      "card_id": "weibo:4",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "七夕送礼上美团闪购",
+      "category": "节日消费",
+      "what_it_is": "疑似七夕送礼的即时零售消费话题,涉及平台促销信息需以官方页面核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划节日送礼与约会场景内容;Sales以节日场景自然切入,不宣称与特定平台官方合作。",
+      "risk_level": "low",
+      "risk_reason": "节日消费话题无争议,注意不虚构平台促销信息即可。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-22T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "鲜花/礼盒",
+        "情侣饰品/珠宝",
+        "巧克力/甜品",
+        "美妆礼盒",
+        "约会体验服务"
+      ],
+      "recommended_angles": [
+        "七夕当天送礼与约会攻略",
+        "七夕消费清单与预算建议",
+        "仪式感消费的理性选择"
+      ],
+      "forbidden_angles": [
+        "禁止制造送礼攀比或情感焦虑",
+        "禁止虚构平台促销信息",
+        "禁止暗示送礼金额与感情深浅挂钩"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23七夕送礼上美团闪购%23"
+    },
+    {
+      "card_id": "weibo:5",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "宇树中签者赚38万退出炒股群",
+      "category": "财经类",
+      "what_it_is": "疑似新股中签投资者收益个案话题,收益数字与案例真实性需核验。",
+      "observed_at": "2026-08-19T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,仅做机制科普;Sales不评论打新收益,不诱导任何投资行为。",
+      "risk_level": "medium",
+      "risk_reason": "投资个案话题涉投资敏感,易诱发跟风与不当预期。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "新股申购机制中性科普(不涉及具体收益承诺)"
+      ],
+      "forbidden_angles": [
+        "禁止荐股、诱导开户或打新",
+        "禁止宣传赚快钱或渲染个人收益",
+        "禁止将个案收益当普遍预期"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23宇树中签者赚38万退出炒股群%23"
+    },
+    {
+      "card_id": "douyin:1",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "您始终有厄瓜多尔这样的朋友",
+      "category": "时政类",
+      "what_it_is": "疑似外交活动相关时政表述,具体出处、语境与官方口径需核验。",
+      "observed_at": "2026-08-19T18:36:01+08:00",
+      "credibility": "high",
+      "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.douyin.com/hot/2615803?&trending_topic=您始终有厄瓜多尔这样的朋友&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=0"
+    },
+    {
+      "card_id": "douyin:2",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "今日七夕",
+      "category": "节日生活",
+      "what_it_is": "传统节日七夕话题,节日本身为公开常识,具体营销节点以日历为准。",
+      "observed_at": "2026-08-19T18:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划节日送礼与约会场景内容;Sales以节日场景自然切入,不做情感绑架式话术。",
+      "risk_level": "low",
+      "risk_reason": "传统节日生活话题无争议,时效以节日当天为准。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-22T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "鲜花/礼盒",
+        "情侣饰品/珠宝",
+        "巧克力/甜品",
+        "美妆礼盒",
+        "约会体验服务"
+      ],
+      "recommended_angles": [
+        "当天可执行的送礼/约会攻略",
+        "七夕消费清单与预算建议"
+      ],
+      "forbidden_angles": [
+        "禁止制造送礼攀比或情感焦虑",
+        "禁止虚构节日促销信息",
+        "禁止暗示送礼金额与感情深浅挂钩"
+      ],
+      "source_url": "https://www.douyin.com/hot/2614967?&trending_topic=今日七夕&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=12106208"
+    },
+    {
+      "card_id": "douyin:3",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "宇树科技首日收涨460.34%",
+      "category": "财经类",
+      "what_it_is": "疑似宇树科技上市首日股价表现报道,股价数据快速变化且需以交易所/公司披露为准。",
+      "observed_at": "2026-08-19T18:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,只做产业与产品科普,不涉及任何投资话题;Sales不评论股价与市值。",
+      "risk_level": "medium",
+      "risk_reason": "股价信息快速变化且涉投资敏感,数字需严格核验。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "机器人玩具/教育机器人",
+        "科技文创",
+        "智能硬件",
+        "科普内容/研学活动"
+      ],
+      "recommended_angles": [
+        "人形机器人产业科普(中性)",
+        "科技公司上市意义的通俗解读"
+      ],
+      "forbidden_angles": [
+        "禁止荐股、预测股价或投资建议",
+        "禁止夸大公司价值或产品能力",
+        "禁止将股价波动当营销由头"
+      ],
+      "source_url": "https://www.douyin.com/hot/2615029?&trending_topic=宇树科技首日收涨460.34%&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11808090"
+    },
+    {
+      "card_id": "douyin:4",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "中国经济底盘稳动能新",
+      "category": "经济类",
+      "what_it_is": "疑似宏观经济形势官方报道或评论,具体数据与表述需以官方发布核验。",
+      "observed_at": "2026-08-19T18:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,以官方发布为准做中性解读;Sales不引用宏观数字做促销承诺,仅做生活化消费沟通。",
+      "risk_level": "medium",
+      "risk_reason": "宏观数据口径需核验,易被曲解为促销由头。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "国货日用品",
+        "本地生活服务",
+        "县域特色农产品"
+      ],
+      "recommended_angles": [
+        "官方口径中性摘要(仅已确认内容)",
+        "理性消费观念内容"
+      ],
+      "forbidden_angles": [
+        "禁止编造经济数据或政策措施",
+        "禁止暗示特定品牌承担宏观数据红利",
+        "禁止将宏观数据当促销承诺"
+      ],
+      "source_url": "https://www.douyin.com/hot/2615573?&trending_topic=中国经济底盘稳动能新&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11752303"
+    },
+    {
+      "card_id": "douyin:5",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "我国首次实现火箭陆地回收",
+      "category": "科技成就",
+      "what_it_is": "疑似我国可回收火箭陆地回收试验成功报道,具体型号、时间与官方口径需核验原始来源。",
+      "observed_at": "2026-08-19T18:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划科普/亲子向选题;Sales仅在用户主动询问时自然衔接STEM与研学类产品,不做技术承诺。",
+      "risk_level": "low",
+      "risk_reason": "正面科技成就新闻,风险仅在于细节核验。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-22T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "航天模型/玩具",
+        "STEM教育套件",
+        "科普图书",
+        "天文望远镜",
+        "科技研学活动"
+      ],
+      "recommended_angles": [
+        "首次陆地回收为何是突破(科普向)",
+        "火箭回收过程通俗拆解",
+        "亲子航天兴趣启蒙"
+      ],
+      "forbidden_angles": [
+        "禁止虚构技术细节或成果数据",
+        "禁止强行绑定品牌宣称官方关联",
+        "禁止贬低其他国家"
+      ],
+      "source_url": "https://www.douyin.com/hot/2614984?&trending_topic=我国首次实现火箭陆地回收&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11122282"
+    },
+    {
+      "card_id": "jinritoutiao:1",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "A股今日为何大跌",
+      "category": "财经类",
+      "what_it_is": "疑似当日股市波动原因分析类报道,行情数据快速变化且需以交易所公开数据为准。",
+      "observed_at": "2026-08-19T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7675397721336348722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227675397721336348722%22%2C%22hot_board_impr_id%22%3A%2220260819183602A17759EA8109B5E793A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22A%E8%82%A1%E4%BB%8A%E6%97%A5%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%B7%8C%22%7D&rank=&style_id=40132&topic_id=7675397721336348722"
+    },
+    {
+      "card_id": "jinritoutiao:2",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "仅退款的风吹到了医院",
+      "category": "民生消费",
+      "what_it_is": "疑似'仅退款'话题延伸至医疗领域的讨论,具体政策或个案背景需核验。",
+      "observed_at": "2026-08-19T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,只做消费权益与理性就医常识内容;Sales不评论具体医院政策,不承诺任何退款权益。",
+      "risk_level": "medium",
+      "risk_reason": "涉医疗与消费争议,个案细节未核验,易误读误传。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "健康科普内容",
+        "家庭健康用品"
+      ],
+      "recommended_angles": [
+        "消费者权益常识科普(不涉具体医院个案)",
+        "理性就医与合理预期内容"
+      ],
+      "forbidden_angles": [
+        "禁止虚构医院退款政策",
+        "禁止煽动医患对立",
+        "禁止传播未经核验的个案细节"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7675596164078731270/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227675596164078731270%22%2C%22hot_board_impr_id%22%3A%2220260819183602A17759EA8109B5E793A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%85%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%8C%BB%E9%99%A2%22%7D&rank=&style_id=40132&topic_id=7675596164078731270"
+    },
+    {
+      "card_id": "jinritoutiao:3",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "未来5年,优化医保便民这么干",
+      "category": "政策类",
+      "what_it_is": "疑似全民医保十五五规划中便民优化措施的政策解读,具体内容需以官方原文核验。",
+      "observed_at": "2026-08-19T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,以官方原文为准做中性解读;Sales不引用政策做承诺,仅做健康保障场景化沟通。",
+      "risk_level": "medium",
+      "risk_reason": "政策类信息易被曲解利用,细节未核验前不宜公开使用。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "健康保险经纪服务",
+        "健康管理服务",
+        "家庭健康用品",
+        "健康科普内容"
+      ],
+      "recommended_angles": [
+        "政策官方原文中性摘要(仅已确认内容)",
+        "医保报销与便民服务常识科普"
+      ],
+      "forbidden_angles": [
+        "禁止编造政策措施或待遇承诺",
+        "禁止宣称品牌享受政策红利",
+        "禁止把政策当促销由头"
+      ],
+      "source_url": "https://www.toutiao.com/article/7675592435925303846"
+    },
+    {
+      "card_id": "jinritoutiao:4",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "宇树敲钟现场王兴兴像个“打工人”",
+      "category": "财经类",
+      "what_it_is": "疑似宇树科技上市敲钟现场相关报道,涉及创始人与上市信息,需核验公开披露。",
+      "observed_at": "2026-08-19T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,仅做产业与产品科普,不涉及投资话题;Sales不评论个人财富与股价。",
+      "risk_level": "medium",
+      "risk_reason": "涉投资敏感与个人话题,数字与公开披露需核验。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-20T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "机器人玩具/教育机器人",
+        "科技文创",
+        "智能硬件",
+        "科普内容/研学活动"
+      ],
+      "recommended_angles": [
+        "人形机器人产业科普(中性)",
+        "青年创业者故事中性呈现"
+      ],
+      "forbidden_angles": [
+        "禁止渲染个人财富数字",
+        "禁止荐股或投资建议",
+        "禁止贬损个人形象或过度娱乐化"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7675266640501591571/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227675266640501591571%22%2C%22hot_board_impr_id%22%3A%2220260819183602A17759EA8109B5E793A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%87%E6%A0%91%E6%95%B2%E9%92%9F%E7%8E%B0%E5%9C%BA%E7%8E%8B%E5%85%B4%E5%85%B4%E5%83%8F%E4%B8%AA%E2%80%9C%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7675266640501591571"
+    },
+    {
+      "card_id": "jinritoutiao:5",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "中国实现火箭陆地回收 外媒反应来了",
+      "category": "科技成就",
+      "what_it_is": "疑似我国可回收火箭陆地回收成功后外媒反应报道,外媒报道原文与试验细节需核验。",
+      "observed_at": "2026-08-19T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划科普/亲子向选题;Sales仅在用户主动询问时自然衔接STEM与研学类产品,不做技术承诺。",
+      "risk_level": "low",
+      "risk_reason": "正面科技成就新闻,风险仅在于外媒原文与细节核验。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-22T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "航天模型/玩具",
+        "STEM教育套件",
+        "科普图书",
+        "天文望远镜",
+        "科技研学活动"
+      ],
+      "recommended_angles": [
+        "首次陆地回收意义科普",
+        "外媒评价中性转述(需核验原文)",
+        "亲子航天兴趣启蒙"
+      ],
+      "forbidden_angles": [
+        "禁止虚构外媒报道或技术细节",
+        "禁止强行绑定品牌宣称官方关联",
+        "禁止政治化解读或贬低其他国家"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7674835472216014884/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227674835472216014884%22%2C%22hot_board_impr_id%22%3A%2220260819183602A17759EA8109B5E793A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6+%E5%A4%96%E5%AA%92%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7674835472216014884"
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "schema": "publicity-hotspot-marketing-cards-v2",
+  "generated_at": "2026-08-20T19:00:00+08:00",
+  "source_count": 4,
+  "card_count": 20,
+  "sources": [
+    {
+      "code": "baidu",
+      "label": "百度",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "weibo",
+      "label": "微博",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "douyin",
+      "label": "抖音",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "jinritoutiao",
+      "label": "今日头条",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    }
+  ],
+  "cards": [
+    {
+      "card_id": "baidu:1",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "从“四个宁可”到“七个坚持”",
+      "category": "时政类",
+      "what_it_is": "疑似官方政治表述或政策宣传类报道,具体出处、语境与官方口径需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E5%9B%9B%E4%B8%AA%E5%AE%81%E5%8F%AF%E2%80%9D%E5%88%B0%E2%80%9C%E4%B8%83%E4%B8%AA%E5%9D%9A%E6%8C%81%E2%80%9D&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:2",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "哈佛医学院惊天丑闻和解",
+      "category": "新闻类",
+      "what_it_is": "疑似哈佛医学院相关丑闻和解的报道,具体事实、各方说法与法律结果需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E5%93%88%E4%BD%9B%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%83%8A%E5%A4%A9%E4%B8%91%E9%97%BB%E5%92%8C%E8%A7%A3&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:3",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "第19号台风紫檀有消息了",
+      "category": "灾害类",
+      "what_it_is": "疑似第19号台风紫檀生成或路径变化的气象新闻,具体路径与预警信息需以气象部门发布为准。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E7%AC%AC19%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%B4%AB%E6%AA%80%E6%9C%89%E6%B6%88%E6%81%AF%E4%BA%86&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:4",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "暑期出行热度不减 这份指南请收好",
+      "category": "生活类",
+      "what_it_is": "疑似暑期出行指南类内容,具体数据、景点与建议出处需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划暑期出行装备与收纳常青选题;Sales以出行场景自然切入旅行用品类产品,不引用未经核验的出行数据。",
+      "risk_level": "low",
+      "risk_reason": "季节性生活话题,无实质争议,仅需核验指南内容出处。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-23T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "旅行收纳用品",
+        "便携出行装备",
+        "旅行箱包",
+        "防晒与出行用品",
+        "旅行攻略内容"
+      ],
+      "recommended_angles": [
+        "暑期出行打包与收纳技巧",
+        "长途出行装备清单",
+        "暑期亲子出行准备清单"
+      ],
+      "forbidden_angles": [
+        "编造出行数据与景区信息",
+        "虚构优惠与促销信息",
+        "制造出行焦虑或恐慌"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E6%9A%91%E6%9C%9F%E5%87%BA%E8%A1%8C%E7%83%AD%E5%BA%A6%E4%B8%8D%E5%87%8F+%E8%BF%99%E4%BB%BD%E6%8C%87%E5%8D%97%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:5",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "绝对的“女汉子”任上落马",
+      "category": "反腐类",
+      "what_it_is": "疑似公职人员被查处的反腐报道,具体事实、程序与官方通报需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E7%BB%9D%E5%AF%B9%E7%9A%84%E2%80%9C%E5%A5%B3%E6%B1%89%E5%AD%90%E2%80%9D%E4%BB%BB%E4%B8%8A%E8%90%BD%E9%A9%AC&sa=fyb_news"
+    },
+    {
+      "card_id": "weibo:1",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "房东赶走怀孕租客称借死不借生",
+      "category": "社会类",
+      "what_it_is": "疑似房东与租客纠纷的社会个案讨论,当事人情况、事件经过与法律认定需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23房东赶走怀孕租客称借死不借生%23"
+    },
+    {
+      "card_id": "weibo:2",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "疑似缅北电诈园区图片曝光",
+      "category": "犯罪类",
+      "what_it_is": "疑似缅北电诈园区图片曝光的内容,图片真实性、具体案情与官方通报需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23疑似缅北电诈园区图片曝光%23"
+    },
+    {
+      "card_id": "weibo:3",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "中非视听之约北京启幕",
+      "category": "文化活动类",
+      "what_it_is": "疑似中非文化交流或影视视听活动在北京开幕的报道,具体活动内容、主办方与议程需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,仅做文化交流中性科普;Sales不做官方关联宣称,仅在用户主动询问时自然衔接文创类产品。",
+      "risk_level": "medium",
+      "risk_reason": "官方文化活动,口径与细节需核验,避免借官方背书营销。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "文化交流科普内容",
+        "影视周边文创",
+        "文化展览类内容",
+        "非洲旅行攻略内容"
+      ],
+      "recommended_angles": [
+        "中非文化交流活动的中性介绍(仅已确认信息)",
+        "非洲影视与文化的科普内容"
+      ],
+      "forbidden_angles": [
+        "编造活动细节或成果",
+        "借官方活动宣称品牌合作或背书",
+        "渲染刻板印象或不当调侃"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23中非视听之约北京启幕%23"
+    },
+    {
+      "card_id": "weibo:4",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "秋招通关指南",
+      "category": "职场类",
+      "what_it_is": "疑似秋招求职指南类内容,具体建议、时间表与信息来源需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划秋招求职干货选题;Sales仅在用户主动询问时自然衔接求职服务类产品,不做录用承诺。",
+      "risk_level": "low",
+      "risk_reason": "求职干货类生活话题,无实质争议,注意不虚构招聘信息即可。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-23T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "简历优化服务",
+        "面试培训",
+        "职业规划咨询",
+        "求职资料模板"
+      ],
+      "recommended_angles": [
+        "秋招时间表与准备清单",
+        "简历与面试的实用技巧",
+        "应届生求职避坑指南"
+      ],
+      "forbidden_angles": [
+        "编造招聘信息或内推渠道",
+        "制造求职焦虑或贩卖紧迫感",
+        "承诺录用或包过"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23秋招通关指南%23"
+    },
+    {
+      "card_id": "weibo:5",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "原来年薪60万助理是这么干活的",
+      "category": "职场类",
+      "what_it_is": "疑似高薪助理岗位工作方式拆解的内容,薪酬数字、岗位细节与真实性需核验。",
+      "observed_at": "2026-08-20T18:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,只做职场能力拆解与效率技巧内容;Sales不引用个案薪酬做承诺,自然衔接技能类产品。",
+      "risk_level": "medium",
+      "risk_reason": "涉具体薪酬个案,细节需核验,易被视作贩卖焦虑。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-23T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "职场技能课程",
+        "效率工具",
+        "办公用品",
+        "职业咨询服务"
+      ],
+      "recommended_angles": [
+        "助理岗位核心工作拆解(仅基于已核实信息)",
+        "职场效率与向上管理技巧"
+      ],
+      "forbidden_angles": [
+        "渲染高薪焦虑或幸存者偏差",
+        "虚构薪酬与岗位细节",
+        "把个案包装成普适承诺"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23原来年薪60万助理是这么干活的%23"
+    },
+    {
+      "card_id": "douyin:1",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "去梁家河看看",
+      "category": "时政类",
+      "what_it_is": "疑似与领导人相关地点参访或纪念内容,具体出处、语境与官方口径需核验。",
+      "observed_at": "2026-08-20T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.douyin.com/hot/2617117?&trending_topic=去梁家河看看&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=0"
+    },
+    {
+      "card_id": "douyin:2",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "华为发布阔直板手机",
+      "category": "科技类",
+      "what_it_is": "疑似华为新款手机产品发布的报道,具体型号、参数与价格需以官方信息核验。",
+      "observed_at": "2026-08-20T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,只做新品特性中性科普;Sales不虚构参数价格,仅在用户主动询问时自然衔接配件与换机类产品。",
+      "risk_level": "medium",
+      "risk_reason": "新品发布信息快速变化,参数与价格需以官方口径核验。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "手机配件",
+        "数码周边",
+        "换机回收服务",
+        "数码科普内容"
+      ],
+      "recommended_angles": [
+        "新机特性中性解读(仅官方已确认信息)",
+        "换机与配件选购常识"
+      ],
+      "forbidden_angles": [
+        "编造参数、价格或发售信息",
+        "宣称与品牌官方合作",
+        "贬低竞品或引战"
+      ],
+      "source_url": "https://www.douyin.com/hot/2617292?&trending_topic=华为发布阔直板手机&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11950636"
+    },
+    {
+      "card_id": "douyin:3",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "黑神话钟馗实机演示公布",
+      "category": "游戏类",
+      "what_it_is": "疑似国产单机游戏新作实机演示公布的报道,演示内容、发售信息与官方口径需核验。",
+      "observed_at": "2026-08-20T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划游戏资讯与硬件配置科普选题;Sales仅在用户主动询问时自然衔接硬件与周边类产品。",
+      "risk_level": "low",
+      "risk_reason": "无害娱乐资讯,仅需核验演示与发售信息。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-23T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "游戏周边",
+        "游戏硬件设备",
+        "游戏内容创作",
+        "游戏攻略内容"
+      ],
+      "recommended_angles": [
+        "实机演示画面与玩法的中性解读",
+        "国产单机游戏动态盘点"
+      ],
+      "forbidden_angles": [
+        "编造演示内容或发售日期",
+        "未经授权商用演示画面",
+        "引战平台或拉踩其他作品"
+      ],
+      "source_url": "https://www.douyin.com/hot/2616508?&trending_topic=黑神话钟馗实机演示公布&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11841182"
+    },
+    {
+      "card_id": "douyin:4",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "一号重器撑起中国能源底气",
+      "category": "能源类",
+      "what_it_is": "疑似国家重大能源工程成果的报道,具体项目、数据与官方口径需核验。",
+      "observed_at": "2026-08-20T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,只做能源科普与家庭节能常青内容;Sales不引用工程数据做促销承诺。",
+      "risk_level": "medium",
+      "risk_reason": "涉国家工程与官方口径,数据需核验,易被视作蹭官方叙事促销。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "能源科普内容",
+        "节能环保用品",
+        "科普读物",
+        "家庭能源管理内容"
+      ],
+      "recommended_angles": [
+        "能源工程意义的科普拆解(仅已核实信息)",
+        "家庭节能与用电常识"
+      ],
+      "forbidden_angles": [
+        "编造工程数据或成果",
+        "把国家工程当促销由头",
+        "宣称品牌参与或承担国家项目红利"
+      ],
+      "source_url": "https://www.douyin.com/hot/2617035?&trending_topic=一号重器撑起中国能源底气&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11742954"
+    },
+    {
+      "card_id": "douyin:5",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "台风沙德尔或于26日移入东海",
+      "category": "灾害类",
+      "what_it_is": "疑似台风沙德尔路径预报的讨论,具体路径、强度与预警需以气象部门发布为准。",
+      "observed_at": "2026-08-20T18:36:02+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.douyin.com/hot/2616849?&trending_topic=台风沙德尔或于26日移入东海&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11154327"
+    },
+    {
+      "card_id": "jinritoutiao:1",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "今年秋裤可能真的不用穿了",
+      "category": "生活类",
+      "what_it_is": "疑似关于今年秋冬气温或穿衣习惯的轻松话题,具体气象依据与出处需核验。",
+      "observed_at": "2026-08-20T18:36:03+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,规划秋冬换季穿搭与保暖常青选题;Sales以换季场景自然切入保暖类产品,不引用未经核验的气象说法。",
+      "risk_level": "low",
+      "risk_reason": "季节性生活话题,无实质争议,注意不虚构气象数据即可。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-23T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "秋冬保暖服饰",
+        "居家保暖用品",
+        "换季穿搭内容",
+        "秋冬家纺"
+      ],
+      "recommended_angles": [
+        "秋冬换季穿搭与保暖常识",
+        "衣橱换季整理清单"
+      ],
+      "forbidden_angles": [
+        "编造气象数据或趋势",
+        "制造气候恐慌",
+        "虚构保暖产品功效"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7676009976942300691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227676009976942300691%22%2C%22hot_board_impr_id%22%3A%222026082018360503027143CC51492577B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E7%A7%8B%E8%A3%A4%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%94%A8%E7%A9%BF%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7676009976942300691"
+    },
+    {
+      "card_id": "jinritoutiao:2",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "正厅级何雄被查 曾任郑州市市长",
+      "category": "反腐类",
+      "what_it_is": "疑似公职人员接受审查调查的反腐报道,具体事实、程序与官方通报需核验。",
+      "observed_at": "2026-08-20T18:36:03+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7676027601470770697/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227676027601470770697%22%2C%22hot_board_impr_id%22%3A%222026082018360503027143CC51492577B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A3%E5%8E%85%E7%BA%A7%E4%BD%95%E9%9B%84%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E4%BB%BB%E9%83%91%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%22%7D&rank=&style_id=40132&topic_id=7676027601470770697"
+    },
+    {
+      "card_id": "jinritoutiao:3",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "这份五年规划事关参保、就医、购药",
+      "category": "政策类",
+      "what_it_is": "疑似医保、就医、购药相关五年规划的解读报道,具体措施、发文机构与实施时间需以官方原文核验。",
+      "observed_at": "2026-08-20T18:36:03+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "owner若选中,以官方原文为准做中性解读;Sales不引用政策做承诺,仅做健康管理与就医常识场景化沟通。",
+      "risk_level": "medium",
+      "risk_reason": "政策类信息易被曲解利用,具体措施未核验前不宜公开使用。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "健康管理服务",
+        "健康科普内容",
+        "家庭健康用品",
+        "医疗保险咨询服务"
+      ],
+      "recommended_angles": [
+        "官方规划原文的中性摘要(仅已确认内容)",
+        "医保就医购药常识科普"
+      ],
+      "forbidden_angles": [
+        "编造政策措施或待遇承诺",
+        "宣称品牌或产品享受政策红利",
+        "把政策当促销由头或制造医疗焦虑"
+      ],
+      "source_url": "https://www.toutiao.com/article/7675763599306686982"
+    },
+    {
+      "card_id": "jinritoutiao:4",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "美国制裁赤根智子 日本网民炸锅",
+      "category": "国际时政类",
+      "what_it_is": "疑似美国对日本官员制裁及日本舆论反应的国际新闻,具体事实、制裁内容与各方表态需核验。",
+      "observed_at": "2026-08-20T18:36:03+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7675698055794019890/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227675698055794019890%22%2C%22hot_board_impr_id%22%3A%222026082018360503027143CC51492577B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E8%B5%A4%E6%A0%B9%E6%99%BA%E5%AD%90+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%82%B8%E9%94%85%22%7D&rank=&style_id=40132&topic_id=7675698055794019890"
+    },
+    {
+      "card_id": "jinritoutiao:5",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "中方:欧盟涉华调查构成不当域外管辖",
+      "category": "国际时政类",
+      "what_it_is": "疑似中方对欧盟涉华调查表态的外交新闻,具体声明原文、语境与各方回应需核验。",
+      "observed_at": "2026-08-20T18:36:03+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-21T19:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7674815405248446500/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227674815405248446500%22%2C%22hot_board_impr_id%22%3A%222026082018360503027143CC51492577B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%AC%A7%E7%9B%9F%E6%B6%89%E5%8D%8E%E8%B0%83%E6%9F%A5%E6%9E%84%E6%88%90%E4%B8%8D%E5%BD%93%E5%9F%9F%E5%A4%96%E7%AE%A1%E8%BE%96%22%7D&rank=&style_id=40132&topic_id=7674815405248446500"
+    }
+  ]
+}
