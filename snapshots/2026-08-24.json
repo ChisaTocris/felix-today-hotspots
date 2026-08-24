@@ -1,0 +1,657 @@
+{
+  "schema": "publicity-hotspot-marketing-cards-v2",
+  "generated_at": "2026-08-24T08:00:00+08:00",
+  "source_count": 4,
+  "card_count": 20,
+  "sources": [
+    {
+      "code": "baidu",
+      "label": "百度",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "weibo",
+      "label": "微博",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "douyin",
+      "label": "抖音",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    },
+    {
+      "code": "jinritoutiao",
+      "label": "今日头条",
+      "mode": "secondary_aggregator",
+      "top_n": 5,
+      "disclaimer": "二级聚合发现顺序，不声称官方榜单；使用前核对原始链接。"
+    }
+  ],
+  "cards": [
+    {
+      "card_id": "baidu:1",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "总书记为何强调文和旅的融合",
+      "category": "时政类",
+      "what_it_is": "疑似关于文旅融合发展理念的官方论述报道,具体表述与发布主体需核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BD%95%E5%BC%BA%E8%B0%83%E6%96%87%E5%92%8C%E6%97%85%E7%9A%84%E8%9E%8D%E5%90%88&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:2",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "全国推广去世亲人存款查询",
+      "category": "服务类",
+      "what_it_is": "疑似全国推广已故存款人存款查询便民服务的政策新闻,具体细则与适用范围需以官方发布核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA%E5%AD%98%E6%AC%BE%E6%9F%A5%E8%AF%A2&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:3",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "花5.9万养发被剃光头拔白发",
+      "category": "消费维权类",
+      "what_it_is": "疑似消费者花5.9万元养发反被剃光头、拔白发引发纠纷的维权报道,事件细节与商家责任需以官方通报核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做美容美发理性消费常青选题;Sales以头皮养护科普衔接合规洗护产品,不引用事件中未核验细节。",
+      "risk_level": "medium",
+      "risk_reason": "消费纠纷事件信息变化快,涉及具体商家与个人,需谨慎使用。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "头皮护理产品",
+        "养发护发服务",
+        "理性消费科普内容"
+      ],
+      "recommended_angles": [
+        "理性养发消费避坑指南",
+        "头皮健康与科学养护科普",
+        "美容消费维权路径说明"
+      ],
+      "forbidden_angles": [
+        "传播未经核验的事件细节",
+        "攻击具体商家或门店",
+        "制造容貌焦虑或恐吓式促销"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E8%8A%B15.9%E4%B8%87%E5%85%BB%E5%8F%91%E8%A2%AB%E5%89%83%E5%85%89%E5%A4%B4%E6%8B%94%E7%99%BD%E5%8F%91&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:4",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "中国汽车出口激增",
+      "category": "财经类",
+      "what_it_is": "疑似中国汽车出口大幅增长的经济数据报道,具体数据与统计口径需以官方发布核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "属官方经济数据话题,仅做已核验数据科普;Sales不引用未核验数字、不做投资承诺。",
+      "risk_level": "medium",
+      "risk_reason": "官方经济数据话题,需核验官方发布,避免政治化或投资炒作。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "汽车行业资讯内容",
+        "外贸数据科普内容",
+        "产业趋势观察内容"
+      ],
+      "recommended_angles": [
+        "已核验出口数据的中性解读",
+        "中国汽车产业链趋势观察"
+      ],
+      "forbidden_angles": [
+        "编造或曲解出口数据",
+        "政治化解读",
+        "借数据炒作投资机会"
+      ],
+      "source_url": "https://www.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E&sa=fyb_news"
+    },
+    {
+      "card_id": "baidu:5",
+      "source": "baidu",
+      "source_label": "百度",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "427万辆召回 没有一款油车",
+      "category": "汽车类",
+      "what_it_is": "疑似427万辆汽车召回且均非燃油车型的召回新闻,召回范围与原因需以官方公告核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做新能源车安全与购车避坑常青选题;Sales以购车决策场景衔接汽车资讯类产品,不引用未核验召回细节。",
+      "risk_level": "medium",
+      "risk_reason": "召回新闻数据需公告核验,易引发品牌对立,需中性处理。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "新能源汽车资讯内容",
+        "汽车安全科普内容",
+        "购车决策参考内容"
+      ],
+      "recommended_angles": [
+        "召回数据中性解读",
+        "新能源车安全关注点科普",
+        "购车与用车避坑清单"
+      ],
+      "forbidden_angles": [
+        "制造新能源车安全恐慌",
+        "编造召回范围或原因",
+        "借机攻击特定品牌"
+      ],
+      "source_url": "https://www.baidu.com/s?word=427%E4%B8%87%E8%BE%86%E5%8F%AC%E5%9B%9E+%E6%B2%A1%E6%9C%89%E4%B8%80%E6%AC%BE%E6%B2%B9%E8%BD%A6&sa=fyb_news"
+    },
+    {
+      "card_id": "weibo:1",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "硕士生签约管理岗入职被安排打螺丝",
+      "category": "职场类",
+      "what_it_is": "疑似硕士毕业生签约管理岗后被安排做一线普工的职场纠纷帖,当事人身份与事实需核验,可能属未经证实爆料。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23硕士生签约管理岗入职被安排打螺丝%23"
+    },
+    {
+      "card_id": "weibo:2",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "四六级成绩",
+      "category": "教育类",
+      "what_it_is": "疑似全国大学英语四六级成绩公布的时效性话题,具体查分时间与分数线需以官方通知核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做四六级查分与英语学习规划时效选题;Sales在用户咨询学习话题时衔接英语课程类产品。",
+      "risk_level": "low",
+      "risk_reason": "时效性教育话题,仅需核验官方通知,避免制造成绩焦虑。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "英语学习课程",
+        "备考资料与工具",
+        "学习规划咨询内容"
+      ],
+      "recommended_angles": [
+        "四六级查分与后续学习规划",
+        "英语能力提升路径科普"
+      ],
+      "forbidden_angles": [
+        "贩卖成绩焦虑",
+        "编造分数线或查分渠道",
+        "推广代查代改等违规服务"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23四六级成绩%23"
+    },
+    {
+      "card_id": "weibo:3",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "2万件中央救灾物资支持广西",
+      "category": "灾害类",
+      "what_it_is": "疑似中央向广西调拨救灾物资的灾害新闻,灾情与物资明细需以官方通报核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%232万件中央救灾物资支持广西%23"
+    },
+    {
+      "card_id": "weibo:4",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "张韶涵演唱会突发心脏不适",
+      "category": "娱乐类",
+      "what_it_is": "疑似歌手张韶涵在演唱会期间突发心脏不适的娱乐健康事件,健康状况与后续需以本人或官方说明核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23张韶涵演唱会突发心脏不适%23"
+    },
+    {
+      "card_id": "weibo:5",
+      "source": "weibo",
+      "source_label": "微博",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "从140瘦到了95斤",
+      "category": "生活类",
+      "what_it_is": "疑似个人从140斤减到95斤的减重经历分享话题,具体方法与真实性需核验。",
+      "observed_at": "2026-08-24T07:35:53+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做科学减重生活方式常青选题;Sales以健康管理场景衔接运动与饮食类产品,不做效果承诺。",
+      "risk_level": "medium",
+      "risk_reason": "减重话题易触发功效承诺与身材焦虑风险,需谨慎表达。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-27T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "健身运动课程",
+        "健康饮食方案",
+        "运动装备服饰"
+      ],
+      "recommended_angles": [
+        "健康减重经验中性分享",
+        "科学减脂与饮食运动科普"
+      ],
+      "forbidden_angles": [
+        "夸大减重效果或做功效承诺",
+        "贩卖身材焦虑",
+        "推广极端节食或不明药物"
+      ],
+      "source_url": "https://s.weibo.com/weibo?q=%23从140瘦到了95斤%23"
+    },
+    {
+      "card_id": "douyin:1",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "人不负青山 青山定不负人",
+      "category": "生态类",
+      "what_it_is": "疑似以绿水青山为主题的生态风光或环保理念视频话题,具体内容与来源需核验。",
+      "observed_at": "2026-08-24T07:36:00+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做生态美景与环保生活常青选题;Sales以自然文旅场景衔接出行与环保类产品。",
+      "risk_level": "medium",
+      "risk_reason": "涉及官方话语,需避免政治借势与政治化解读。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "生态文旅内容",
+        "环保生活用品",
+        "山水摄影装备"
+      ],
+      "recommended_angles": [
+        "绿水青山生态美景内容分享",
+        "环保生活方式中性科普"
+      ],
+      "forbidden_angles": [
+        "借官方话语做促销",
+        "政治化解读",
+        "编造生态或景区信息"
+      ],
+      "source_url": "https://www.douyin.com/hot/2620966?&trending_topic=人不负青山 青山定不负人&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=0"
+    },
+    {
+      "card_id": "douyin:2",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "台风沙德尔路径可能有变",
+      "category": "灾害类",
+      "what_it_is": "疑似台风沙德尔路径可能调整的气象预警信息,路径与影响需以官方气象发布核验。",
+      "observed_at": "2026-08-24T07:36:00+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.douyin.com/hot/2620117?&trending_topic=台风沙德尔路径可能有变&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11590272"
+    },
+    {
+      "card_id": "douyin:3",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "中国U18男篮不敌澳大利亚获亚军",
+      "category": "体育类",
+      "what_it_is": "疑似中国U18男篮不敌澳大利亚获得亚军的赛事话题,对阵与比分需核验。",
+      "observed_at": "2026-08-24T07:36:00+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做青少年篮球与观赛常青选题;Sales以运动场景衔接篮球装备与培训类产品。",
+      "risk_level": "low",
+      "risk_reason": "无害体育赛事话题,核验赛果即可。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-27T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "篮球运动装备",
+        "青少年体育培训",
+        "体育资讯内容"
+      ],
+      "recommended_angles": [
+        "赛事回顾与球队表现中性盘点",
+        "青少年篮球培养观察"
+      ],
+      "forbidden_angles": [
+        "编造赛果或数据",
+        "攻击球员或球队",
+        "拉踩引战"
+      ],
+      "source_url": "https://www.douyin.com/hot/2620150?&trending_topic=中国U18男篮不敌澳大利亚获亚军&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11548345"
+    },
+    {
+      "card_id": "douyin:4",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "一组数据看中国经济双向链接全球",
+      "category": "财经类",
+      "what_it_is": "疑似用数据说明中国经济与全球双向联动的经济解读内容,数据与口径需以官方发布核验。",
+      "observed_at": "2026-08-24T07:36:00+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "属官方经济数据话题,仅做已核验财经科普;Sales不引用未核验数据、不做投资承诺。",
+      "risk_level": "medium",
+      "risk_reason": "官方经济数据话题,需核验官方发布,避免政治化解读。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "财经科普内容",
+        "宏观经济资讯内容"
+      ],
+      "recommended_angles": [
+        "已核验数据的双向贸易中性解读",
+        "外贸与产业链趋势观察"
+      ],
+      "forbidden_angles": [
+        "编造或曲解经济数据",
+        "政治化解读",
+        "炒作投资机会"
+      ],
+      "source_url": "https://www.douyin.com/hot/2620971?&trending_topic=一组数据看中国经济双向链接全球&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11309918"
+    },
+    {
+      "card_id": "douyin:5",
+      "source": "douyin",
+      "source_label": "抖音",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "梁伟铿王昶获世锦赛男双冠军",
+      "category": "体育类",
+      "what_it_is": "疑似梁伟铿、王昶组合获羽毛球世锦赛男双冠军的赛果话题,赛果需以官方发布核验。",
+      "observed_at": "2026-08-24T07:36:00+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做羽毛球观赛与装备选购常青选题;Sales以羽毛球运动场景衔接装备类产品,不虚构代言关系。",
+      "risk_level": "low",
+      "risk_reason": "无害体育赛事话题,注意不虚构代言即可。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-27T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "羽毛球运动装备",
+        "运动服饰",
+        "体育资讯内容"
+      ],
+      "recommended_angles": [
+        "冠军时刻与比赛回顾",
+        "羽毛球装备选购指南",
+        "观赛氛围内容"
+      ],
+      "forbidden_angles": [
+        "编造赛果",
+        "借冠军名义虚假代言",
+        "拉踩其他选手"
+      ],
+      "source_url": "https://www.douyin.com/hot/2620349?&trending_topic=梁伟铿王昶获世锦赛男双冠军&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11265262"
+    },
+    {
+      "card_id": "jinritoutiao:1",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 1,
+      "hotspot": "小伙赛中去世 队友烧球衣称不再打球",
+      "category": "哀悼类",
+      "what_it_is": "疑似一名年轻人在比赛中去世、队友烧球衣悼念的悲痛事件,事件细节需以权威媒体发布核验。",
+      "observed_at": "2026-08-24T07:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7676579571235602458/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227676579571235602458%22%2C%22hot_board_impr_id%22%3A%2220260824073602E683BD86DF717ECBB657%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E4%BC%99%E8%B5%9B%E4%B8%AD%E5%8E%BB%E4%B8%96+%E9%98%9F%E5%8F%8B%E7%83%A7%E7%90%83%E8%A1%A3%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E7%90%83%22%7D&rank=&style_id=40132&topic_id=7676579571235602458"
+    },
+    {
+      "card_id": "jinritoutiao:2",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 2,
+      "hotspot": "美国记者激动称赞殷玉珍是超级英雄",
+      "category": "人物类",
+      "what_it_is": "疑似外国记者称赞治沙人物殷玉珍的正面人物报道,具体事迹与引语需以权威来源核验。",
+      "observed_at": "2026-08-24T07:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做生态治理科普常青选题;Sales以环保内容场景衔接生态类知识产品,不虚构人物背书。",
+      "risk_level": "low",
+      "risk_reason": "正面人物故事,核验事迹与引语即可。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-27T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "生态环保内容",
+        "治沙与荒漠化科普内容",
+        "正能量人物故事内容"
+      ],
+      "recommended_angles": [
+        "治沙人物事迹中性介绍",
+        "荒漠化治理与生态修复科普"
+      ],
+      "forbidden_angles": [
+        "编造或夸大人物事迹",
+        "借人物形象做商业代言",
+        "过度拔高渲染"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7676802611013730346/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227676802611013730346%22%2C%22hot_board_impr_id%22%3A%2220260824073602E683BD86DF717ECBB657%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E6%BF%80%E5%8A%A8%E7%A7%B0%E8%B5%9E%E6%AE%B7%E7%8E%89%E7%8F%8D%E6%98%AF%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%22%7D&rank=&style_id=40132&topic_id=7676802611013730346"
+    },
+    {
+      "card_id": "jinritoutiao:3",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 3,
+      "hotspot": "你的住房公积金有这些新用途",
+      "category": "政策类",
+      "what_it_is": "疑似住房公积金新增使用用途的政策解读话题,具体新政与适用范围需以官方发布核验。",
+      "observed_at": "2026-08-24T07:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做公积金政策科普常青选题;Sales在用户咨询住房话题时衔接房产咨询类服务,不引用未核验细则。",
+      "risk_level": "medium",
+      "risk_reason": "公积金政策细节影响资金安全,需官方核验,避免诱导违规操作。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [
+        "房产咨询服务",
+        "公积金政策解读内容",
+        "家装家居服务"
+      ],
+      "recommended_angles": [
+        "公积金新用途政策中性解读",
+        "提取与使用场景清单科普"
+      ],
+      "forbidden_angles": [
+        "编造政策细节",
+        "诱导违规提取",
+        "承诺办理结果或额度"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7676435524567531563/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227676435524567531563%22%2C%22hot_board_impr_id%22%3A%2220260824073602E683BD86DF717ECBB657%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E7%9A%84%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E7%94%A8%E9%80%94%22%7D&rank=&style_id=40132&topic_id=7676435524567531563"
+    },
+    {
+      "card_id": "jinritoutiao:4",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "俄客机因俄籍女子不适紧急备降湖北",
+      "category": "事件类",
+      "what_it_is": "疑似俄罗斯客机因一名俄籍旅客身体不适紧急备降湖北的事件新闻,具体经过与安全状态需以官方通报核验。",
+      "observed_at": "2026-08-24T07:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "high",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7677197722176684082/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227677197722176684082%22%2C%22hot_board_impr_id%22%3A%2220260824073602E683BD86DF717ECBB657%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E5%AE%A2%E6%9C%BA%E5%9B%A0%E4%BF%84%E7%B1%8D%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%80%82%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%E6%B9%96%E5%8C%97%22%7D&rank=&style_id=40132&topic_id=7677197722176684082"
+    },
+    {
+      "card_id": "jinritoutiao:5",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "中国大使怒斥菲方:我会让你付出代价",
+      "category": "时政类",
+      "what_it_is": "疑似中国外交官员就中菲问题强硬回应的国际时政话题,具体语境与表述需以官方来源核验。",
+      "observed_at": "2026-08-24T07:36:01+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-25T08:00:00+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7677116355950886955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227677116355950886955%22%2C%22hot_board_impr_id%22%3A%2220260824073602E683BD86DF717ECBB657%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E6%80%92%E6%96%A5%E8%8F%B2%E6%96%B9%EF%BC%9A%E6%88%91%E4%BC%9A%E8%AE%A9%E4%BD%A0%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%22%7D&rank=&style_id=40132&topic_id=7677116355950886955"
+    }
+  ]
+}
