@@ -1,6 +1,6 @@
 {
   "schema": "publicity-hotspot-marketing-cards-v2",
-  "generated_at": "2026-08-27T08:00:00+08:00",
+  "generated_at": "2026-08-27T23:16:40+08:00",
   "source_count": 4,
   "card_count": 20,
   "sources": [
@@ -40,17 +40,17 @@
       "source_label": "百度",
       "source_mode": "secondary_aggregator",
       "rank": 1,
-      "hotspot": "习近平对西藏泥石流灾害作出重要指示",
+      "hotspot": "展现历史担当 汇聚和平发展力量",
       "category": "时政类",
-      "what_it_is": "疑似关于领导人就西藏泥石流灾害作出重要指示的时政报道,具体内容与表述需以权威官方发布核验。",
-      "observed_at": "2026-08-27T07:35:53+08:00",
+      "what_it_is": "疑似关于历史担当与和平发展主题的时政宣传报道,具体内容与出处需以权威官方发布核验。",
+      "observed_at": "2026-08-27T23:05:53+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
-      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -59,7 +59,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
+      "source_url": "https://www.baidu.com/s?word=%E5%B1%95%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%8B%85%E5%BD%93+%E6%B1%87%E8%81%9A%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%E5%8A%9B%E9%87%8F&sa=fyb_news"
     },
     {
       "card_id": "baidu:2",
@@ -67,17 +67,17 @@
       "source_label": "百度",
       "source_mode": "secondary_aggregator",
       "rank": 2,
-      "hotspot": "西藏泥石流已致3人遇难265人失联",
-      "category": "灾害类",
-      "what_it_is": "疑似关于西藏泥石流灾害伤亡与失联人数的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:35:53+08:00",
+      "hotspot": "孙宇晨起诉景甜",
+      "category": "娱乐争议类",
+      "what_it_is": "疑似关于孙宇晨起诉景甜的娱乐法律纠纷话题,具体案由与双方说法均需核验,标题仅作线索。",
+      "observed_at": "2026-08-27T23:05:53+08:00",
       "credibility": "high",
       "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
-      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -86,7 +86,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B43%E4%BA%BA%E9%81%87%E9%9A%BE265%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+      "source_url": "https://www.baidu.com/s?word=%E5%AD%99%E5%AE%87%E6%99%A8%E8%B5%B7%E8%AF%89%E6%99%AF%E7%94%9C&sa=fyb_news"
     },
     {
       "card_id": "baidu:3",
@@ -94,26 +94,35 @@
       "source_label": "百度",
       "source_mode": "secondary_aggregator",
       "rank": 3,
-      "hotspot": "尼泊尔北部山洪已致157人死亡",
-      "category": "灾害类",
-      "what_it_is": "疑似关于尼泊尔北部山洪造成人员死亡的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:35:53+08:00",
-      "credibility": "medium",
-      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
-      "risk_level": "prohibited",
-      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "hotspot": "赵心童登顶世界第一",
+      "category": "体育类",
+      "what_it_is": "疑似关于斯诺克选手赵心童登顶世界第一的体育报道,具体排名与赛事信息需以官方公布核验。",
+      "observed_at": "2026-08-27T23:05:53+08:00",
+      "credibility": "high",
+      "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
+      "handoff_hint": "可做台球运动科普与励志常青选题;Sales以体育内容场景衔接相关商品,成绩信息以官方为准。",
+      "risk_level": "medium",
+      "risk_reason": "体育成绩话题需核验官方排名,且选手有过往争议,需避免博彩联想。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
-      "suitable_products": [],
+      "suitable_products": [
+        "体育资讯内容",
+        "台球运动器材",
+        "运动服饰",
+        "励志内容"
+      ],
       "recommended_angles": [
-        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+        "运动员成绩中性关注",
+        "斯诺克运动知识与观赏科普",
+        "坚持与复出的励志常青选题"
       ],
       "forbidden_angles": [
-        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+        "禁止传播未经证实的排名或成绩",
+        "禁止赌博博彩相关引导",
+        "禁止炒作选手过往争议"
       ],
-      "source_url": "https://www.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E5%B7%B2%E8%87%B4157%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+      "source_url": "https://www.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
     },
     {
       "card_id": "baidu:4",
@@ -121,33 +130,26 @@
       "source_label": "百度",
       "source_mode": "secondary_aggregator",
       "rank": 4,
-      "hotspot": "“黄金大外环”的“黄金效应”",
-      "category": "经济类",
-      "what_it_is": "疑似关于某环线交通工程带动区域发展(“黄金效应”)的经济报道,具体项目与数据需核验。",
-      "observed_at": "2026-08-27T07:35:53+08:00",
+      "hotspot": "翼龙无人机进入西藏吉隆勘察",
+      "category": "灾害类",
+      "what_it_is": "疑似关于翼龙无人机进入西藏吉隆灾区勘察的救援报道,具体情况需以官方通报核验。",
+      "observed_at": "2026-08-27T23:05:53+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做区域交通与文旅常青选题;Sales以出行或文旅内容场景衔接相关产品,不引用未核验数据。",
-      "risk_level": "low",
-      "risk_reason": "中性基建经济话题,仅需核验项目数据并避免炒作区域价值。",
-      "ttl_hours": 72,
-      "expires_at": "2026-08-30T08:00:00+08:00",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
-      "suitable_products": [
-        "区域文旅内容",
-        "出行服务",
-        "基建行业资讯"
-      ],
+      "suitable_products": [],
       "recommended_angles": [
-        "区域交通改善中性盘点",
-        "沿线文旅与消费场景解读"
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
       ],
       "forbidden_angles": [
-        "炒作区域价值",
-        "编造收益数据",
-        "借官方表述促销"
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.baidu.com/s?word=%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E6%95%88%E5%BA%94%E2%80%9D&sa=fyb_news"
+      "source_url": "https://www.baidu.com/s?word=%E7%BF%BC%E9%BE%99%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%9B%E5%85%A5%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8B%98%E5%AF%9F&sa=fyb_news"
     },
     {
       "card_id": "baidu:5",
@@ -155,34 +157,26 @@
       "source_label": "百度",
       "source_mode": "secondary_aggregator",
       "rank": 5,
-      "hotspot": "苹果官宣9月10日秋季发布会",
-      "category": "科技类",
-      "what_it_is": "疑似关于苹果官宣9月10日秋季发布会的科技新闻,具体产品与时间需以官方发布核验。",
-      "observed_at": "2026-08-27T07:35:53+08:00",
+      "hotspot": "省长叶建春任上被查 江西省委表态",
+      "category": "政务类",
+      "what_it_is": "疑似关于江西省长叶建春被审查调查及官方表态的政务报道,具体信息需以权威通报核验。",
+      "observed_at": "2026-08-27T23:05:53+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做数码新品发布常青选题;Sales以数码内容场景衔接相关商品,产品信息以官方发布会为准。",
-      "risk_level": "low",
-      "risk_reason": "无害科技消费新闻,仅需核验官方发布信息并避免诱导抢购。",
-      "ttl_hours": 72,
-      "expires_at": "2026-08-30T08:00:00+08:00",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
-      "suitable_products": [
-        "数码产品",
-        "手机配件",
-        "科技内容",
-        "教育内容"
-      ],
+      "suitable_products": [],
       "recommended_angles": [
-        "发布会看点预测盘点",
-        "新品参数中性解读"
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
       ],
       "forbidden_angles": [
-        "传播未证实的产品信息",
-        "诱导预订或加价",
-        "拉踩竞品"
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A39%E6%9C%8810%E6%97%A5%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+      "source_url": "https://www.baidu.com/s?word=%E7%9C%81%E9%95%BF%E5%8F%B6%E5%BB%BA%E6%98%A5%E4%BB%BB%E4%B8%8A%E8%A2%AB%E6%9F%A5+%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E8%A1%A8%E6%80%81&sa=fyb_news"
     },
     {
       "card_id": "weibo:1",
@@ -190,26 +184,34 @@
       "source_label": "微博",
       "source_mode": "secondary_aggregator",
       "rank": 1,
-      "hotspot": "西藏泥石流265人失联3人遇难",
-      "category": "灾害类",
-      "what_it_is": "疑似关于西藏泥石流灾害伤亡与失联人数的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:35:54+08:00",
+      "hotspot": "龙骨焚箱",
+      "category": "影视类",
+      "what_it_is": "疑似关于小说《龙骨焚箱》或其影视改编的娱乐话题,具体所指与语境需核验。",
+      "observed_at": "2026-08-27T23:05:54+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
-      "risk_level": "prohibited",
-      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
-      "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "handoff_hint": "可做悬疑志怪题材常青内容选题;Sales以影视内容场景衔接相关商品,作品信息以官方为准。",
+      "risk_level": "low",
+      "risk_reason": "无害影视娱乐话题,仅需核验语境并避免盗版侵权。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-30T23:16:40+08:00",
       "status": "active",
-      "suitable_products": [],
+      "suitable_products": [
+        "娱乐影视内容",
+        "图书与文创周边",
+        "内容创作选题"
+      ],
       "recommended_angles": [
-        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+        "作品背景与设定中性科普",
+        "同类悬疑志怪题材盘点",
+        "影视化期待中性讨论"
       ],
       "forbidden_angles": [
-        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+        "禁止传播盗版资源",
+        "禁止散播未经证实的改编信息",
+        "禁止恶意拉踩其他作品"
       ],
-      "source_url": "https://s.weibo.com/weibo?q=%23西藏泥石流265人失联3人遇难%23"
+      "source_url": "https://s.weibo.com/weibo?q=%23龙骨焚箱%23"
     },
     {
       "card_id": "weibo:2",
@@ -217,33 +219,26 @@
       "source_label": "微博",
       "source_mode": "secondary_aggregator",
       "rank": 2,
-      "hotspot": "刘翔",
-      "category": "体育类",
-      "what_it_is": "疑似关于体育人物刘翔的热议话题,具体所指与语境需核验,可能与个人公开发文相关。",
-      "observed_at": "2026-08-27T07:35:54+08:00",
+      "hotspot": "西藏吉隆泥石流",
+      "category": "灾害类",
+      "what_it_is": "疑似关于西藏吉隆泥石流灾害的报道,具体伤亡与救援信息需以官方通报核验。",
+      "observed_at": "2026-08-27T23:05:54+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做体育与励志常青选题;Sales以体育内容场景衔接相关商品,人物动态以本人及官方信息为准。",
-      "risk_level": "medium",
-      "risk_reason": "涉及名人公开发文及可能的工作安置争议,易引发站队与未经证实指控,需核验原文。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
-      "suitable_products": [
-        "体育内容",
-        "运动装备",
-        "励志内容"
-      ],
+      "suitable_products": [],
       "recommended_angles": [
-        "体育人物动态中性关注",
-        "田径运动科普常青选题"
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
       ],
       "forbidden_angles": [
-        "站队或指责机构",
-        "传播未经证实的指控",
-        "消费个人隐私"
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://s.weibo.com/weibo?q=%23刘翔%23"
+      "source_url": "https://s.weibo.com/weibo?q=%23西藏吉隆泥石流%23"
     },
     {
       "card_id": "weibo:3",
@@ -251,17 +246,17 @@
       "source_label": "微博",
       "source_mode": "secondary_aggregator",
       "rank": 3,
-      "hotspot": "3万件物资支持西藏救灾",
+      "hotspot": "解放军和武警部队已派500余人救援",
       "category": "灾害类",
-      "what_it_is": "疑似关于3万件物资支持西藏救灾的救援报道,具体物资与来源需以官方通报核验。",
-      "observed_at": "2026-08-27T07:35:54+08:00",
+      "what_it_is": "疑似关于解放军和武警部队赴灾区救援的报道,具体信息需以官方通报核验。",
+      "observed_at": "2026-08-27T23:05:54+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
       "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -270,7 +265,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://s.weibo.com/weibo?q=%233万件物资支持西藏救灾%23"
+      "source_url": "https://s.weibo.com/weibo?q=%23解放军和武警部队已派500余人救援%23"
     },
     {
       "card_id": "weibo:4",
@@ -278,17 +273,17 @@
       "source_label": "微博",
       "source_mode": "secondary_aggregator",
       "rank": 4,
-      "hotspot": "办事大厅被拍空岗后禁群众带手机进入",
-      "category": "政务类",
-      "what_it_is": "疑似关于某办事大厅被拍空岗及后续管理措施的舆情话题,具体经过与回应需以官方通报核验。",
-      "observed_at": "2026-08-27T07:35:54+08:00",
-      "credibility": "medium",
-      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "hotspot": "孙宇晨起诉景甜",
+      "category": "娱乐争议类",
+      "what_it_is": "疑似关于孙宇晨起诉景甜的娱乐法律纠纷话题,具体案由与双方说法均需核验,标题仅作线索。",
+      "observed_at": "2026-08-27T23:05:54+08:00",
+      "credibility": "high",
+      "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
-      "risk_level": "high",
+      "risk_level": "prohibited",
       "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -297,7 +292,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://s.weibo.com/weibo?q=%23办事大厅被拍空岗后禁群众带手机进入%23"
+      "source_url": "https://s.weibo.com/weibo?q=%23孙宇晨起诉景甜%23"
     },
     {
       "card_id": "weibo:5",
@@ -305,33 +300,34 @@
       "source_label": "微博",
       "source_mode": "secondary_aggregator",
       "rank": 5,
-      "hotspot": "金价大涨终于熬出头",
-      "category": "财经类",
-      "what_it_is": "疑似关于金价上涨行情的财经话题,具体行情与背景需核验。",
-      "observed_at": "2026-08-27T07:35:54+08:00",
+      "hotspot": "张继科直播",
+      "category": "体育类",
+      "what_it_is": "疑似关于乒乓球运动员张继科开直播的娱乐体育话题,直播内容与语境需核验。",
+      "observed_at": "2026-08-27T23:05:54+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做黄金消费与理财常识常青选题;Sales以饰品或金融内容场景衔接相关商品,不提供投资建议。",
+      "handoff_hint": "可做乒乓球运动科普常青选题;Sales以体育内容场景衔接相关商品,人物动态以本人及官方信息为准。",
       "risk_level": "medium",
-      "risk_reason": "涉及价格行情与投资心理,易诱发投机与误导,行情数据需核验。",
+      "risk_reason": "名人直播话题易引发旧闻争议与隐私讨论,需中性谨慎处理。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [
-        "黄金饰品",
-        "金融资讯内容",
-        "投资教育内容"
+        "体育内容",
+        "乒乓球器材",
+        "直播内容参考"
       ],
       "recommended_angles": [
-        "金价走势中性解读",
-        "黄金饰品消费常识科普"
+        "运动员动态中性关注",
+        "乒乓球运动科普常青选题",
+        "体育明星直播现象中性观察"
       ],
       "forbidden_angles": [
-        "诱导投资或承诺收益",
-        "制造抢购紧迫感",
-        "传播未核验行情数据"
+        "禁止传播其过往未经证实传闻",
+        "禁止消费个人隐私",
+        "禁止站队或恶意评论"
       ],
-      "source_url": "https://s.weibo.com/weibo?q=%23金价大涨终于熬出头%23"
+      "source_url": "https://s.weibo.com/weibo?q=%23张继科直播%23"
     },
     {
       "card_id": "douyin:1",
@@ -339,17 +335,17 @@
       "source_label": "抖音",
       "source_mode": "secondary_aggregator",
       "rank": 1,
-      "hotspot": "习近平对西藏泥石流作出重要指示",
+      "hotspot": "始终为人民利益和幸福而努力工作",
       "category": "时政类",
-      "what_it_is": "疑似关于领导人就西藏泥石流灾害作出重要指示的时政报道,具体内容与表述需以权威官方发布核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
+      "what_it_is": "疑似时政宣传类内容标题,具体出处与语境需以权威发布核验。",
+      "observed_at": "2026-08-27T23:06:04+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
-      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -358,7 +354,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.douyin.com/hot/2624608?&trending_topic=习近平对西藏泥石流作出重要指示&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=0"
+      "source_url": "https://www.douyin.com/hot/2625965?&trending_topic=始终为人民利益和幸福而努力工作&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=0"
     },
     {
       "card_id": "douyin:2",
@@ -366,17 +362,17 @@
       "source_label": "抖音",
       "source_mode": "secondary_aggregator",
       "rank": 2,
-      "hotspot": "西藏泥石流已致265人失联3人遇难",
+      "hotspot": "西藏泥石流救援现场",
       "category": "灾害类",
-      "what_it_is": "疑似关于西藏泥石流灾害伤亡与失联人数的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
+      "what_it_is": "疑似关于西藏泥石流救援现场的报道,具体信息需以官方通报核验。",
+      "observed_at": "2026-08-27T23:06:04+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
       "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -385,7 +381,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.douyin.com/hot/2625118?&trending_topic=西藏泥石流已致265人失联3人遇难&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=12110066"
+      "source_url": "https://www.douyin.com/hot/2625199?&trending_topic=西藏泥石流救援现场&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=12047462"
     },
     {
       "card_id": "douyin:3",
@@ -393,17 +389,17 @@
       "source_label": "抖音",
       "source_mode": "secondary_aggregator",
       "rank": 3,
-      "hotspot": "尼泊尔山洪已致尼方数百人失联",
-      "category": "灾害类",
-      "what_it_is": "疑似关于尼泊尔山洪造成数百人失联的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
+      "hotspot": "江西省省长叶建春被查",
+      "category": "政务类",
+      "what_it_is": "疑似关于江西省长叶建春被审查调查的政务报道,具体信息需以权威通报核验。",
+      "observed_at": "2026-08-27T23:06:04+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
       "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -412,7 +408,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.douyin.com/hot/2624871?&trending_topic=尼泊尔山洪已致尼方数百人失联&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=12049928"
+      "source_url": "https://www.douyin.com/hot/2625841?&trending_topic=江西省省长叶建春被查&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11969297"
     },
     {
       "card_id": "douyin:4",
@@ -420,33 +416,26 @@
       "source_label": "抖音",
       "source_mode": "secondary_aggregator",
       "rank": 4,
-      "hotspot": "穿越黄河的单洞双层盾构隧道通车",
-      "category": "基建类",
-      "what_it_is": "疑似关于穿越黄河的单洞双层盾构隧道建成通车的基建报道,具体项目信息需核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
+      "hotspot": "运20抵达西藏驰援吉隆",
+      "category": "灾害类",
+      "what_it_is": "疑似关于运20运输机驰援西藏吉隆灾区的报道,具体信息需以官方通报核验。",
+      "observed_at": "2026-08-27T23:06:04+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做重大工程与工程技术科普常青选题;Sales以行业资讯内容场景衔接相关产品,不引用未核验数据。",
-      "risk_level": "low",
-      "risk_reason": "中性基建成就报道,仅需核验项目数据。",
-      "ttl_hours": 72,
-      "expires_at": "2026-08-30T08:00:00+08:00",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
-      "suitable_products": [
-        "基建行业资讯",
-        "工程机械内容",
-        "区域文旅内容"
-      ],
+      "suitable_products": [],
       "recommended_angles": [
-        "重大交通工程进展中性盘点",
-        "隧道工程技术科普"
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
       ],
       "forbidden_angles": [
-        "夸大工程数据",
-        "借官方表述促销",
-        "炒作区域价值"
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.douyin.com/hot/2624924?&trending_topic=穿越黄河的单洞双层盾构隧道通车&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11904097"
+      "source_url": "https://www.douyin.com/hot/2625450?&trending_topic=运20抵达西藏驰援吉隆&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11164606"
     },
     {
       "card_id": "douyin:5",
@@ -454,33 +443,34 @@
       "source_label": "抖音",
       "source_mode": "secondary_aggregator",
       "rank": 5,
-      "hotspot": "英伟达二季度营收翻倍",
-      "category": "财经类",
-      "what_it_is": "疑似关于英伟达二季度财报营收大幅增长的科技财经报道,具体数据需以公司财报核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
+      "hotspot": "山东公布夏季高考调整优化方案",
+      "category": "教育类",
+      "what_it_is": "疑似关于山东公布夏季高考调整优化方案的教育政策报道,具体政策内容需以官方发布核验。",
+      "observed_at": "2026-08-27T23:06:04+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做AI芯片行业趋势常青选题;Sales以科技资讯内容场景衔接相关产品,不构成投资建议。",
+      "handoff_hint": "可做高考政策解读与备考规划常青选题;Sales以教育内容场景衔接相关服务,政策引用以官方发布为准。",
       "risk_level": "medium",
-      "risk_reason": "涉及上市公司财报与科技投资情绪,易诱发投机误导,数据需以财报为准。",
-      "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "risk_reason": "教育政策话题需以官方口径为准,易诱发升学焦虑营销。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-30T23:16:40+08:00",
       "status": "active",
       "suitable_products": [
-        "科技行业资讯",
-        "芯片行业内容",
-        "AI科普内容"
+        "教育咨询服务",
+        "学习资料与教辅",
+        "教育内容创作"
       ],
       "recommended_angles": [
-        "财报数据中性解读",
-        "AI芯片行业趋势盘点"
+        "政策要点中性解读",
+        "高考备考规划常青内容",
+        "教育信息差科普"
       ],
       "forbidden_angles": [
-        "诱导炒股",
-        "夸大投资机会",
-        "传播未证实数据"
+        "禁止编造或曲解政策细节",
+        "禁止制造升学焦虑、承诺提分",
+        "禁止借政策背书课程促销"
       ],
-      "source_url": "https://www.douyin.com/hot/2625140?&trending_topic=英伟达二季度营收翻倍&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11204980"
+      "source_url": "https://www.douyin.com/hot/2625463?&trending_topic=山东公布夏季高考调整优化方案&previous_page=main_page&enter_method=trending_topic&modeFrom=hotDetail&tab_name=trend&position=1&hotValue=11097949"
     },
     {
       "card_id": "jinritoutiao:1",
@@ -488,17 +478,17 @@
       "source_label": "今日头条",
       "source_mode": "secondary_aggregator",
       "rank": 1,
-      "hotspot": "西藏泥石流已致3人遇难265人失联",
-      "category": "灾害类",
-      "what_it_is": "疑似关于西藏泥石流灾害伤亡与失联人数的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
-      "credibility": "high",
-      "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
+      "hotspot": "李强抵达西藏灾区指导救灾",
+      "category": "时政类",
+      "what_it_is": "疑似关于领导人赴西藏灾区指导救灾的时政报道,具体内容需以权威官方发布核验。",
+      "observed_at": "2026-08-27T23:06:05+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
-      "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -507,7 +497,7 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.toutiao.com/trending/7678251470793362985/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678251470793362985%22%2C%22hot_board_impr_id%22%3A%22202608270736046207910E28D6472E1196%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B43%E4%BA%BA%E9%81%87%E9%9A%BE265%E4%BA%BA%E5%A4%B1%E8%81%94%22%7D&rank=&style_id=40132&topic_id=7678251470793362985"
+      "source_url": "https://www.toutiao.com/trending/7678626814578966582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678626814578966582%22%2C%22hot_board_impr_id%22%3A%2220260827230606D8872F0B46A97F27260F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%BC%BA%E6%8A%B5%E8%BE%BE%E8%A5%BF%E8%97%8F%E7%81%BE%E5%8C%BA%E6%8C%87%E5%AF%BC%E6%95%91%E7%81%BE%22%7D&rank=&style_id=40132&topic_id=7678626814578966582"
     },
     {
       "card_id": "jinritoutiao:2",
@@ -515,33 +505,35 @@
       "source_label": "今日头条",
       "source_mode": "secondary_aggregator",
       "rank": 2,
-      "hotspot": "刘翔再发文:十年了想起来安置我了",
+      "hotspot": "赵心童登顶世界第一",
       "category": "体育类",
-      "what_it_is": "疑似关于刘翔公开发文提及个人工作安置话题的体育人物报道,具体内容与背景需核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
-      "credibility": "medium",
-      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做体育与励志常青选题;Sales以体育内容场景衔接相关商品,引用以本人及官方信息为准。",
+      "what_it_is": "疑似关于斯诺克选手赵心童登顶世界第一的体育报道,具体排名与赛事信息需以官方公布核验。",
+      "observed_at": "2026-08-27T23:06:05+08:00",
+      "credibility": "high",
+      "credibility_reason": "同一规范化标题在2个平台的聚合顺序中出现；使用前仍需打开原始链接核对。",
+      "handoff_hint": "可做台球运动科普与励志常青选题;Sales以体育内容场景衔接相关商品,成绩信息以官方为准。",
       "risk_level": "medium",
-      "risk_reason": "涉及名人公开发文与可能的安置争议,易引发站队与未经证实指控,需核验原文。",
+      "risk_reason": "体育成绩话题需核验官方排名,且选手有过往争议,需避免博彩联想。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [
-        "体育内容",
-        "运动装备",
+        "体育资讯内容",
+        "台球运动器材",
+        "运动服饰",
         "励志内容"
       ],
       "recommended_angles": [
-        "体育人物动态中性关注",
-        "田径运动科普常青选题"
+        "运动员成绩中性关注",
+        "斯诺克运动知识与观赏科普",
+        "坚持与复出的励志常青选题"
       ],
       "forbidden_angles": [
-        "站队或指责机构",
-        "传播未经证实的指控",
-        "断章取义引用原文"
+        "禁止传播未经证实的排名或成绩",
+        "禁止赌博博彩相关引导",
+        "禁止炒作选手过往争议"
       ],
-      "source_url": "https://www.toutiao.com/trending/7678481366346124826/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678481366346124826%22%2C%22hot_board_impr_id%22%3A%22202608270736046207910E28D6472E1196%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E7%BF%94%E5%86%8D%E5%8F%91%E6%96%87%EF%BC%9A%E5%8D%81%E5%B9%B4%E4%BA%86%E6%83%B3%E8%B5%B7%E6%9D%A5%E5%AE%89%E7%BD%AE%E6%88%91%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7678481366346124826"
+      "source_url": "https://www.toutiao.com/trending/7678713250501889546/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678713250501889546%22%2C%22hot_board_impr_id%22%3A%2220260827230606D8872F0B46A97F27260F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B5%B5%E5%BF%83%E7%AB%A5%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%22%7D&rank=&style_id=40132&topic_id=7678713250501889546"
     },
     {
       "card_id": "jinritoutiao:3",
@@ -549,84 +541,17 @@
       "source_label": "今日头条",
       "source_mode": "secondary_aggregator",
       "rank": 3,
-      "hotspot": "“十五五”时期推动信息通信业全面升级",
-      "category": "政策类",
-      "what_it_is": "疑似关于“十五五”时期推动信息通信业全面升级的政策报道,具体规划内容需以官方发布核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
-      "credibility": "medium",
-      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做信息通信行业趋势常青选题;Sales以行业资讯内容场景衔接相关产品,政策引用以官方发布为准。",
-      "risk_level": "low",
-      "risk_reason": "中性政策规划话题,仅需核验政策口径与数据。",
-      "ttl_hours": 72,
-      "expires_at": "2026-08-30T08:00:00+08:00",
-      "status": "active",
-      "suitable_products": [
-        "通信设备",
-        "科技行业资讯",
-        "数字化服务内容"
-      ],
-      "recommended_angles": [
-        "行业政策中性解读",
-        "信息通信技术趋势盘点"
-      ],
-      "forbidden_angles": [
-        "夸大政策利好",
-        "编造数据",
-        "借政策表述促销"
-      ],
-      "source_url": "https://www.toutiao.com/article/7678261207363404314"
-    },
-    {
-      "card_id": "jinritoutiao:4",
-      "source": "jinritoutiao",
-      "source_label": "今日头条",
-      "source_mode": "secondary_aggregator",
-      "rank": 4,
-      "hotspot": "癌症疫苗预计近50万美元1针",
-      "category": "健康类",
-      "what_it_is": "疑似关于癌症疫苗高昂定价的医疗健康话题,具体定价与获批信息需以权威来源核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
-      "credibility": "medium",
-      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
-      "handoff_hint": "可做癌症防治科普常青选题;Sales以健康内容场景衔接相关产品,不涉及疗效承诺。",
-      "risk_level": "medium",
-      "risk_reason": "涉及重大疾病与医疗定价,易引发焦虑与误导,信息需权威来源核验。",
-      "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
-      "status": "active",
-      "suitable_products": [
-        "健康科普内容",
-        "医疗资讯内容"
-      ],
-      "recommended_angles": [
-        "癌症疫苗研发进展中性科普",
-        "价格与可及性客观解读"
-      ],
-      "forbidden_angles": [
-        "制造疾病焦虑",
-        "夸大疗效",
-        "传播未经证实的定价信息"
-      ],
-      "source_url": "https://www.toutiao.com/trending/7677088857683394603/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227677088857683394603%22%2C%22hot_board_impr_id%22%3A%22202608270736046207910E28D6472E1196%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E9%A2%84%E8%AE%A1%E8%BF%9150%E4%B8%87%E7%BE%8E%E5%85%831%E9%92%88%22%7D&rank=&style_id=40132&topic_id=7677088857683394603"
-    },
-    {
-      "card_id": "jinritoutiao:5",
-      "source": "jinritoutiao",
-      "source_label": "今日头条",
-      "source_mode": "secondary_aggregator",
-      "rank": 5,
-      "hotspot": "尼泊尔北部山洪暴发已致157人死亡",
+      "hotspot": "全力搜寻吉隆泥石流失联人员",
       "category": "灾害类",
-      "what_it_is": "疑似关于尼泊尔北部山洪造成人员死亡的灾害报道,具体数据需以官方通报核验。",
-      "observed_at": "2026-08-27T07:36:03+08:00",
+      "what_it_is": "疑似关于搜寻吉隆泥石流失联人员的救援报道,具体信息需以官方通报核验。",
+      "observed_at": "2026-08-27T23:06:05+08:00",
       "credibility": "medium",
       "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
       "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
       "risk_level": "prohibited",
       "risk_reason": "命中敏感事件硬性边界，只能中性关注，不得营销借势。",
       "ttl_hours": 24,
-      "expires_at": "2026-08-28T08:00:00+08:00",
+      "expires_at": "2026-08-28T23:16:40+08:00",
       "status": "active",
       "suitable_products": [],
       "recommended_angles": [
@@ -635,7 +560,69 @@
       "forbidden_angles": [
         "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
       ],
-      "source_url": "https://www.toutiao.com/trending/7678481176842997254/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678481176842997254%22%2C%22hot_board_impr_id%22%3A%22202608270736046207910E28D6472E1196%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E6%9A%B4%E5%8F%91%E5%B7%B2%E8%87%B4157%E4%BA%BA%E6%AD%BB%E4%BA%A1%22%7D&rank=&style_id=40132&topic_id=7678481176842997254"
+      "source_url": "https://www.toutiao.com/article/7678648884100465186"
+    },
+    {
+      "card_id": "jinritoutiao:4",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 4,
+      "hotspot": "汗血宝马满地打滚 外籍记者看呆了",
+      "category": "生活趣闻类",
+      "what_it_is": "疑似关于汗血宝马有趣行为引发外籍记者关注的趣味新闻,具体内容与来源需核验。",
+      "observed_at": "2026-08-27T23:06:05+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "可做马术文化与文旅趣味常青选题;Sales以文旅或生活内容场景衔接相关商品,不引用未核验细节。",
+      "risk_level": "low",
+      "risk_reason": "无害生活趣味话题,仅需核验来源并避免过度演绎。",
+      "ttl_hours": 72,
+      "expires_at": "2026-08-30T23:16:40+08:00",
+      "status": "active",
+      "suitable_products": [
+        "文旅内容",
+        "马术与畜牧科普内容",
+        "趣味生活内容"
+      ],
+      "recommended_angles": [
+        "动物趣味瞬间中性传播",
+        "汗血宝马与马术文化科普",
+        "中外文化交流趣味观察"
+      ],
+      "forbidden_angles": [
+        "禁止编造或夸大动物行为",
+        "禁止调侃外籍记者或制造对立",
+        "禁止生硬商业植入"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7678692747154751524/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678692747154751524%22%2C%22hot_board_impr_id%22%3A%2220260827230606D8872F0B46A97F27260F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B1%97%E8%A1%80%E5%AE%9D%E9%A9%AC%E6%BB%A1%E5%9C%B0%E6%89%93%E6%BB%9A+%E5%A4%96%E7%B1%8D%E8%AE%B0%E8%80%85%E7%9C%8B%E5%91%86%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7678692747154751524"
+    },
+    {
+      "card_id": "jinritoutiao:5",
+      "source": "jinritoutiao",
+      "source_label": "今日头条",
+      "source_mode": "secondary_aggregator",
+      "rank": 5,
+      "hotspot": "国防部:要求美方立即停止武装台湾",
+      "category": "时政类",
+      "what_it_is": "疑似关于国防部就台湾问题表态的军事时政报道,具体表述需以权威官方发布核验。",
+      "observed_at": "2026-08-27T23:06:05+08:00",
+      "credibility": "medium",
+      "credibility_reason": "仅由单个平台的二级聚合顺序发现；热榜标题只作选题线索，使用前需核对原始链接。",
+      "handoff_hint": "这个热点不用于营销借势；请改用与商品真实卖点相关的常青主题。",
+      "risk_level": "prohibited",
+      "risk_reason": "风险等级为高或禁止借势，不生成商品关联或下游转化提示。",
+      "ttl_hours": 24,
+      "expires_at": "2026-08-28T23:16:40+08:00",
+      "status": "active",
+      "suitable_products": [],
+      "recommended_angles": [
+        "不借势；仅作中性关注，等待事件结束后改用常青主题。"
+      ],
+      "forbidden_angles": [
+        "禁止促销、玩梗、制造紧迫感、站队或传播未经核验的细节。"
+      ],
+      "source_url": "https://www.toutiao.com/trending/7678500133947916334/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678500133947916334%22%2C%22hot_board_impr_id%22%3A%2220260827230606D8872F0B46A97F27260F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE%22%7D&rank=&style_id=40132&topic_id=7678500133947916334"
     }
   ]
 }
